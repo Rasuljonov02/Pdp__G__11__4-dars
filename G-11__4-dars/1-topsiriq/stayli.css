@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: antiquewhite;
+}
+body {
+  background-color: #383464;
+}
+.asosiy {
+  width: 360px;
+  height: 570px;
+  background: linear-gradient(
+    197.56deg,
+    #ff0095 0%,
+    #694b97 52.08%,
+    #008cff 100%
+  );
+  box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.2);
+  text-align: center;
+  position: relative;
+  left: 35%;
+  top: 10px;
+}
+.img {
+  position: relative;
+  top: 5px;
+  height: 100px;
+  width: 100px;
+  border-radius: 60%;
+  border: 5px solid #9c8c96;
+}
+.ism {
+  position: relative;
+  top: 8px;
+}
+.Illustrator {
+  position: relative;
+  top: 9px;
+  font-size: 30px;
+}
+.text {
+  width: 300px;
+  position: relative;
+  left: 25px;
+  top: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+.behanse {
+  position: relative;
+  top: 30px;
+  padding: 5px 55px;
+  border: 2px solid wheat;
+  text-decoration: none;
+}
+.be {
+  position: relative;
+  right: 40px;
+}
+.behansee {
+  position: relative;
+  top: 50px;
+  padding: 5px 66px;
+  border: 2px solid wheat;
+  text-decoration: none;
+}
+.instagram {
+  position: relative;
+  right: 53px;
+}
+.gmail {
+  position: relative;
+  top: 70px;
+  padding: 5px 84px;
+  border: 2px solid wheat;
+  text-decoration: none;
+}
+.gam {
+  position: relative;
+  right: 70px;
+}
+h3 {
+  position: relative;
+  top: 90px;
+}
+p {
+  position: relative;
+  top: 100px;
+}
+.katak {
+  position: relative;
+  top: 120px;
+  right: 15px;
+  padding: 8px;
+  border: 1px solid #ffffff;
+}
+.wibr {
+  position: relative;
+  top: 120px;
+  right: -10px;
+  height: 15px;
+  padding: 8px;
+  width: 20px;
+  border: 1px solid #ffffff;
+}
+h6 {
+  position: relative;
+  top: 130px;
+}
+.lakat {
+  position: relative;
+  top: 3px;
+}
